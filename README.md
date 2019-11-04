@@ -2,4 +2,4 @@
 Simple snippets of random code
 
 C Examples:
-    Second degree equation
+    * Second degree equation
